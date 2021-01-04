@@ -1,0 +1,95 @@
+body {
+    background: white;
+    background: white;
+    font-size: 12pt;
+    color: black;
+    margin: 80pt;
+    margin-top: 20pt;
+}
+
+.entete {
+    background: #E8EFF7;
+    font-size: 12pt;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 20pt;
+    text-align: center;
+    border-radius: 12px;
+    padding: 18px;
+    margin-bottom: 10px;
+    box-shadow: 10px 10px grey;
+}
+
+.conteneur{
+    border-radius: 12px;
+    padding: 18px;
+    margin-bottom: 10px;
+    background: #E8EFF7;
+    box-shadow: 10px 10px grey;
+}
+
+.adresse {
+    font-size: 10pt;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: right;
+    
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+    font-size: 14pt;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding: 0pt;
+    margin: 0pt;
+    margin-bottom: 15pt;
+}
+
+h2 {
+    font-size: 12pt;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #fff;
+    background: #c2d5eb;
+    padding: 2pt;
+    margin-top: 30pt;
+}
+
+h3 {
+    font-size: 12pt;
+    color: black;
+    font-weight: bold;
+    display: inline;
+}
+
+em {
+    font-size: 12pt;
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.annee {
+    font-size: 12pt;
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    border-radius: 12px;
+    padding: 18px;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin: 5pt;
+    list-style-type: square;
+}
+
+li {
+    margin: 5pt;
+}
+
+h3{
+    
+}
